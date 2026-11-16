@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Frontend Developer!<br><br>💻 I build responsive and interactive web interfaces  <br>🌱 Currently pursuing MERN Full Stack Development  <br>⚡ Tech Stack: HTML5, CSS3, JavaScript, jQuery, React  <br>🤝 Quick learner, team player & goal-oriented developer  <br><br>📌 Always learning and improving my skills in modern web technologies<br>
+👋 Hi, I'm a Full Stack Developer!<br><br>💻 I build responsive and interactive web interfaces  <br>🌱 Currently pursuing MERN Full Stack Development  <br>⚡ Tech Stack: HTML5, CSS3, JavaScript, jQuery, React  <br>🤝 Quick learner, team player & goal-oriented developer  <br><br>📌 Always learning and improving my skills in modern web technologies<br>
 
 
 ## 🌐 Socials:
